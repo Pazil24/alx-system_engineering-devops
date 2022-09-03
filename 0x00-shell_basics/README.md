@@ -15,3 +15,6 @@ This is a delete the file betty in /tmp/my_first_directory
 
 9-firstdirdeletion
 This is the command to delete directory /tmp/my_first_directory.
+
+10-back
+This is a script that changes the working directory to the previous one.
